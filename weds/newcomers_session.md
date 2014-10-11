@@ -7,8 +7,9 @@ She highlighted the feeling of;
 > meeting new people I stay in touch with today"
 
 At this point they had everyone introduce themselves to the person next to them.
-Since we were all standing and talking, they asked everyone who had another
-woman on their team to sit down.
+Since we were all standing and talking;
+
+They asked everyone who had another woman on their team to sit down.
 
 As we looked at the women who were standing, she thanked those standing for
 being brave.
