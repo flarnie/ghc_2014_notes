@@ -1,7 +1,9 @@
 # Commencement
 ## Telle Whitney
 ###President and CEO of the Anita Borg institute
+
 ![Telle Whitney at Commencement 2014](./2014-10-08Telle-Whitney2.jpg)
+
 *image from [Grace Hopper Gallery 1][ghc-gallery-1]*
 
 [ghc-gallery-1]: http://gracehopper.org/galleries/gallery-one/
@@ -9,47 +11,48 @@
 >"20 years ago my friend Anita Borg convinced me we could put together
 >a conference to celebrate women in computing"
 
-Today we are "8000 strong"
+She went on, saying that today we are "8000 strong".
 
 >"[We are here because of the]
->Hope that the field of computer science might actually
->become a true meritocracy"
+>hope that the field of computer science might actually
+>become a true meritocracy."
 
->"[There is] a long way to go"
+>"[There is] a long way to go ..."
 
->"Major companies releasing their numbers ... it's not good"
->"But they talked about it. It's really important."
+>"Major companies releasing their numbers ... it's not good -
+>But they talked about it. [That's] really important."
+
 >"All of us can agree that the numbers need work.
->"Making these numbers public is an important step forward."
+>Making these numbers public is an important step forward."
 
 >###"Transparency drives commitment."
 
 She quoted;
->>"While none of us my create the situation, all of us have a stake in fixing it"
+>>"While none of us may create the situation, all of us have a stake in fixing it."
 -Megan Smith, CTO of USA
 
 >"[The solution] involves all of you pursuing your dreams in technology
 >.. mentoring others
->.. digging in when things don't go quite the way you have planned"
+>.. digging in when things don't go quite the way you have planned."
 
->###"Go for it, and don't take 'no' for an answer"
+>###"Go for it, and don't take 'no' for an answer."
 
->"Also requires the participation and advocacy of men
+>"[The solution] also requires the participation and advocacy of men. ...
+>[Men can] speak out when they see actions or words that are inappropriate. ...
+>[We also need help from] ... Academic institutions ...
+> ... Companies to examine their culture to eliminate bias ..."
 
->"[Men can] speak out when they see actions or words that are inappropriate."
-
->"[We also need help from] ... Academic institutions ...
->" ... Companies to examine their culture to eliminate bias ...
->### Recognize diversity drives innovation."
+>###"Recognize diversity drives innovation."
 
 >"When we limit who can contribute, we limit our ability to solve the
 >world's technical challenges."
 
->###"Let's all aspire to change the ratio and make technology for everyone, everywhere"
+>###"Let's all aspire to change the ratio and make technology for everyone, everywhere."
 
 ##Alexander Wolf
 ### ACM President
-[Alex Wolf, ACM President](./2014-10-08Alex-Wolf-ACM.jpg)
+![Alex Wolf, ACM President](./2014-10-08Alex-Wolf-ACM.jpg)
+
 *image from [Grace Hopper Gallery 1][ghc-gallery-1]*
 
 [ghc-gallery-1]: http://gracehopper.org/galleries/gallery-one/
@@ -57,9 +60,12 @@ She quoted;
 >"ACM has been an important partner to the Anita Borg Institute ..."
 
 >"Anita Borg had many years of a deep relationship with the ACM."
+
 >"ACM has been committed for many decades to seeing women enter ... [and] ... stay in computing."
 
-They are a partner of code.org, promoting international hour of code.
+They are a partner of [code.org][code-dot-org], promoting international hour of code.
+
+[code-dot-org]: http://code.org/
 
 He gave examples of the
 >" ... glaring and, i would say debilitating, rift ...
@@ -68,8 +74,8 @@ He gave examples of the
 > ... Challenges and opportunities that do not know national boundaries ...
 > ... In India women face fierce social pressures to abandon their careers
 > to provide full time ... [for their] families. ...
-> Their ability to remain in that workfoce is severely limited.
-> In Europe, ... developing programs for women in computing ...
+> Their ability to remain in that workforce is severely limited.
+> In Europe, ... [we are] developing programs for women in computing ...
 > [The] inaugural Women Courage event in Manchester ...
 > will be followed up next year in Sweden ...
 > GHC is designed to have multiple opportunities to interact with inspiring women."
@@ -81,11 +87,11 @@ He introduced the other guest speakers beautifully.
 
 Telle Whitney chimed in again;
 "Over the next three days you will meet our ABIE award winners"
- - Telle Whitney
 
 ## 2014 Change Agent ABIE Winners
 
-![2014 Change Agent Award Winners](./2014-10-08Change-Agent-Award-Winners.jpg)
+![2014 Change Agent Award Winners](./2014-10-08Change-Agent-Winners.jpg)
+
 *image from [Grace Hopper Gallery 1][ghc-gallery-1]*
 
 [ghc-gallery-1]: http://gracehopper.org/galleries/gallery-one/
@@ -102,19 +108,19 @@ Telle Whitney chimed in again;
 >###My motivation... are the young women who I work with
 >###who look at me with eyes that say
 >>###"Wow - she can do anything"
->###If Barbara can, then I can too"
+>### - If Barbara can, then I can too"
 
 >"Receiving this award is like a pat on my back from a big sister
 > saying
->>"Keep it up"
+>>"Keep it up""
 
 >"I dream of a day
 > such that when my daughter and your daughter grow up
 > they will not face the challenges we have ...
 
->" It is possible, one girl or women at a time"
+>###It is possible, one girl or women at a time"
 
->"... that is what every women in tech needs to do
+>"What every women in tech needs to do
 > get on the road and move"
 
 >"My work would also not be possible without
@@ -134,33 +140,38 @@ Telle Whitney chimed in again;
 > [my] father extended full support, and this came at a time when
 > there were rarely any female students enrolled in engineering programs."
 
-> "[I]forced my way into industry ...
+> "[I] forced my way into industry ...
 > working in an all male environment had it's challenges ...
-> balancing work home life was a challenge ..."
+> balancing work [and] home life was a challenge ..."
 
 She was able to
->"connect with other woman in engineering through international women in engineering conferences"
+>"connect with other woman in engineering through international women in engineering conferences."
 
 She said they also
 >"had informal meetups to share our problems ...
 > that helped a lot."
 
-> "My children saw me work through my phd while in college ...
+> "My children saw me work through my PhD while in college ...
+
 > "My daughter, an electrical engineer, is here as a GCH scholar."
 
 She emphasized one more time "how grateful I am."
 > "Thank you everyone."
 
 ##Winner of social impact award
+
 *presented by*
+
 Debbie Byron, Chief H.R. officer at RMS (Risk Management Solutions)
-!(Debbie Byron, Chief H.R. Officer at RMS)[./debbie-byron-thumbail.jpg]
+
+![Debbie Byron, Chief H.R. Officer at RMS](./debbie-byron-thumbail.jpg)
+
 *image from [rms.com profile of Debbie Byron][rms-exec-team]*
 
 [rms-exec-team]: http://www.rms.com/about/leadership/executive-team#debbie-byron
 
-Ruthe is chief strategy and growth officer at NCWIT
-(National Center for Women In Technology)
+They introduced Ruthe as chief strategy and growth officer at NCWIT
+(National Center for Women In Technology).
 
 >"Over past 6 years, [she] has grown it from serving 32 women to a national talent pipeline
 > ... [including] all ages."
@@ -174,17 +185,18 @@ Ruthe is chief strategy and growth officer at NCWIT
 She began by saying "Thanks everyone", and
 talking of her hope for a world where any girl can feel that
 >" ... her abilities and interests have value
->" ... her accomplishments have merit ...
+> ... her accomplishments have merit ..."
+
 >" [where] technical women are not outliers, or rare birds ...
->" ... [where] others know the value of the first 'hello world' ..."
+> ... [where] others know the value of the first 'hello world' ..."
 
 She said that her work
 >" makes me smile every day ...
->" [seeing the girls] share support and encourage each other,
->" even start companies together (5 of them),
->" ... stop imposter syndrome in it's tracks."
+> [seeing the girls] share support and encourage each other,
+> even start companies together (5 of them),
+> ... stop imposter syndrome in it's tracks."
 
->###"There is a legion of women heading your way who will be negotiating their salaries so please budget accordingly."
+>###"There is a legion of women heading your way who will be negotiating their salaries - so please budget accordingly."
 
 >"There are countless partners that contribute
 >more than 1k volunteers ...
@@ -202,7 +214,8 @@ She wanted to close with a "call to action":
 
 ##Shafi Goldwasser
 ###Keynote speaker
-**WIP: Still formatting this section**
+#**WIP: Still formatting this section**
+*(from here down has not been cleaned up)*
 "Truly honored..."
 "I knew Anita Borg only regret is she is not here to see it"
 "She would be extremely proud"
