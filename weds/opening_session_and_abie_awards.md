@@ -51,7 +51,8 @@ She quoted;
 
 ##Alexander Wolf
 ### ACM President
-![Alex Wolf, ACM President](./2014-10-08Alex-Wolf-ACM.jpg)
+
+![Alex Wolf, ACM President](./2014-10-08-Alex-Wolf-ACM.jpg)
 
 *image from [Grace Hopper Gallery 1][ghc-gallery-1]*
 
@@ -164,7 +165,7 @@ She emphasized one more time "how grateful I am."
 
 Debbie Byron, Chief H.R. officer at RMS (Risk Management Solutions)
 
-![Debbie Byron, Chief H.R. Officer at RMS](./debbie-byron-thumbail.jpg)
+![Debbie Byron, Chief H.R. Officer at RMS](./debbie-byron-thumbnail.jpg)
 
 *image from [rms.com profile of Debbie Byron][rms-exec-team]*
 
