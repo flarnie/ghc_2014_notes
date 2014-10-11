@@ -183,6 +183,13 @@ They introduced Ruthe as chief strategy and growth officer at NCWIT
 
 ##Ruthe Farmer
 ### Winner of the Social Impact Award
+
+![Ruthe Farmer, Chief Strategy and Growth Officer at NCWIT](./ruthe-farmer.jpg)
+
+*image from [ncwit.org profile of Ruthe Farmer][ncwit-ruthe]*
+
+[ncwit-ruthe]: http://www.ncwit.org/profile/ruthe-farmer
+
 She began by saying "Thanks everyone", and
 talking of her hope for a world where any girl can feel that
 >" ... her abilities and interests have value
@@ -215,6 +222,13 @@ She wanted to close with a "call to action":
 
 ##Shafi Goldwasser
 ###Keynote speaker
+
+![Shafi GoldWasser, Computer Scientist](./Shafi_Goldwasser.jpg)
+
+*image from [wikipedia profile of Shafi Goldwasser][wikiped-shafi]*
+
+[wikiped-shafi]: http://en.wikipedia.org/wiki/Shafi_Goldwasser
+
 #**WIP: Still formatting this section**
 *(from here down has not been cleaned up)*
 "Truly honored..."
