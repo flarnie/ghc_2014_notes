@@ -57,12 +57,13 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
  * *(coming soon)* Security: Multiple Presentations
    - Winning the Security Awareness Game
    - When Android Apps Go Evil: An Overview of Mobile Malware Analysis
- * [Security 2: Multiple Presentations]
+ * [Security 2: Multiple Presentations][security-2-panel]
    - Visualizing Privacy: Using (Usable) Short Form Privacy Policies
 
 [thurs-keynote-megan-smith]: thurs/keynote_megan_smith.md
 [thurs-satya-nadella-and-maria-klawe]: thurs/satya_nadella_and_maria_klawe.md
 [web-services-panel]: thurs/web_services_grow_refactor_rebuild.md
+[security-2-panel]: thurs/security_presentations_2.md
 
 ## Friday, October 10th, 2014
  * *coming soon* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**

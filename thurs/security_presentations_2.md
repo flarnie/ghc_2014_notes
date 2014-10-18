@@ -32,17 +32,15 @@
 > They're long.
 > ###Facebook's privacy policy is longer than the constitution of the US.
 >
-> ###It would take the average user
-> ###30 working days
-> ###to read every privacy policy
-> ###of every website
+> ###It would take the average user 30 working days
+> ###to read every privacy policy of every website
 > ###she visits in a year.
 >
 > People understand that they have to accept these privacy policies
 > in order to get on with their day.
 >
 > **Why do we care that people don't read privacy policies?**
-> If we know that ppl don't read .. or understand them
+> If we know that people don't read .. or understand them
 >   and we know that users know that they have to accept the terms
 >   ... Can we really call this consent a choice?
 >   And is it actually informed?
@@ -61,7 +59,9 @@
 > than users expect.
 >
 > Negative surprises. ...
-> Negative surprise can cause loss of trust.
+>
+> ###Negative surprise can cause loss of trust.
+>
 > [Loss of trust can lead to] loss of revenue.
 >
 > Think about this in light of recent data breeches.
@@ -74,7 +74,7 @@
 >
 > Before you decide that data breeches are only for the targets and home depots of the world,
 >
-> Think about 'yo'.
+> Think about 'Yo'.
 > ...
 > It was hacked
 > overnight ...
@@ -98,7 +98,7 @@
 > ... called
 > a short form privacy policy.
 >
-> At lookout
+> At Lookout
 > security is important to us.
 > We're in security.
 > Trust is important to us,
@@ -167,11 +167,13 @@
 > [It is] mobile responsive ...
 > web view.
 >
->![Lookout's Short Form Privacy Policy Page Above the Fold](./lookout_short_form_priv_pol_1.jpg)
->![Lookout's Short Form Privacy Policy Page Below the Fold](./lookout_short_form_priv_pol_2.jpg)
+>![Lookout's Short Form Privacy Policy Page Above the Fold](./lookout_short_form_priv_pol_1.png)
+>![Lookout's Short Form Privacy Policy Page Below the Fold](./lookout_short_form_priv_pol_2.png)
 >
 > It's also been localized.
+>
 > We think our transparency should extend to our global userbase.
+>
 > We had such a positive reaction to it,
 > We belted it out as a toolkit;
 > available,
@@ -179,30 +181,24 @@
 >
 > [private parts][lookout-priv-pol-toolkit]
 >
-> put it together like a puzzle.
+> Put it together like a puzzle.
 >
->  A few other tools:
-> Intuit ([uses a short form privacy policy][intuit-short-form-priv-pol])
-> [TRUSTe][truste] and the [App Association][app-association]
-> ([blog post by TRUSTe][truste-priv-pol] about their own short form privacy policy)
-> ([Privacy Dashboard][act-privacy-dashboard]: a resource by the App Association a.k.a. ACT)
+>  **A few other tools:**
+> * Intuit ([uses a short form privacy policy][intuit-short-form-priv-pol])
+> * [TRUSTe][truste] and the [App Association][app-association]
+> * ([blog post by TRUSTe][truste-priv-pol] about their own short form privacy policy)
+> * ([Privacy Dashboard][act-privacy-dashboard]: a resource by the App Association a.k.a. ACT)
+> * [Mozilla has a template for a mobile privacy policy.][moz-priv-pol-template]
+> * (And also a set of [privacy policy guidelines][moz-priv-pol-guidelines])
+>
 > [They have information to help create privacy policies that are] concise, [and]
 > navigatable.
 >
-> This might feel more comfortable for you ...
-> also open source ...
-> also available to anyone on github ...
+> ###be more transparent
 >
-> [Mozilla has a template for a mobile privacy policy.][moz-priv-pol-template]
-> (And also a set of [privacy policy guidelines][moz-priv-pol-guidelines])
-> Maybe you need to start with a long form privacy policy.
+> ###inspire trust
 >
-> Again - open source. ...
-> availaable on github ...
->
->  ### * be more transparent
->  ### * inspire trust
->  ### * improve comprehension
+> ###improve comprehension
 >
 >   keep in mind:
 >  * a short form policy is not a replacement for a full-length privacy policy

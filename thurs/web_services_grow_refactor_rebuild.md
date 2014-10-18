@@ -191,7 +191,7 @@ She says that they have changed repeatedly the agile practices (stand ups) that 
 > there will be consequences,
 > your responsibility to make sure it doesn't affect others."
 
-**Q:**We're in the middle of coding;
+**Q:** We're in the middle of coding;
  We need to make sure we're not missing any features.
 
  Strategies to really validate every piece as you go?
@@ -311,7 +311,7 @@ She says that they have changed repeatedly the agile practices (stand ups) that 
 
 **Neha Karajgikan (Square) answered:**
 
-> If we mess something up, customer impact is very large.
+> "If we mess something up, customer impact is very large.
 >
 > Rolling to production ...
 > If your feature is something significant
@@ -398,7 +398,7 @@ She says that they have changed repeatedly the agile practices (stand ups) that 
 > What are all the places it can go wrong,
 > [and] what do you do if it goes wrong."
 
-**Q:**Benefits your company has seen as a direct result of doing this?
+**Q:** Benefits your company has seen as a direct result of doing this?
 
 **Ity Kaul (Twitter) answered:**
 
