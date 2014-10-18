@@ -37,7 +37,8 @@ links to any other resources or documentation available.
 [weds-opening-welcome-and-abie-awards]: weds/opening_session_and_abie_awards.md
 
 ## Thursday, October 9th, 2014
- * *(coming soon)* ABIE Awards Presentation and Keynote **Megan Smith, CTO of USA**
+ * [Keynote **Megan Smith, CTO of USA**][thurs-keynote-megan-smith]
+ * [Satya Nadella (CEO of Microsoft) in conversation with Maria Klawe][thurs-satya-nadella-and-maria-klawe]
  * *(coming soon)* Deploying your Application on the Public Cloud
  * *(coming soon)* What Do You Mean It Isn't A Meritocracy? *"Birds of a Feather"*
  * *(coming soon)* Web Services: Grow, Refactor, Rebuild
@@ -46,6 +47,9 @@ links to any other resources or documentation available.
    - When Android Apps Go Evil: An Overview of Mobile Malware Analysis
  * *(coming soon)* Security: Multiple Presentations
    - Visualizing Privacy: Using (Usable) Short Form Privacy Policies
+
+[thurs-keynote-megan-smith]: thurs/keynote_megan_smith.md
+[thurs-satya-nadella-and-maria-klawe]: thurs/satya_nadella_and_maria_klawe.md
 
 ## Friday, October 10th, 2014
  * *coming soon* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**
