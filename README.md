@@ -53,7 +53,7 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 **Panels**
  * *(coming soon)* Deploying your Application on the Public Cloud
  * *(coming soon)* What Do You Mean It Isn't A Meritocracy? *"Birds of a Feather"*
- * *(coming soon)* Web Services: Grow, Refactor, Rebuild
+ * [Web Services: Grow, Refactor, Rebuild][web-services-panel]
  * *(coming soon)* Security: Multiple Presentations
    - Winning the Security Awareness Game
    - When Android Apps Go Evil: An Overview of Mobile Malware Analysis
