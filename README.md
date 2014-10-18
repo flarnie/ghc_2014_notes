@@ -21,7 +21,15 @@ Each document includes primarily direct quotes, with
 links to any other resources or documentation available.
 
 ## Highlights
- * *coming soon*
+>"We're getting our history back,
+>which is awesome.
+>
+>##I'm hopeful.
+>##The tech industry ...  If we see the problem we can debug it.  Thats how we roll."
+
+*- Megan Smith, CTO of the USA*
+
+from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 
 ## Wednesday, October 8th, 2014
 **Events**

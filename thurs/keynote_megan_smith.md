@@ -34,10 +34,8 @@ we weren't included in the history.
 >We're getting our history back,
 >which is awesome.
 >
->I'm hopeful.
->The tech industry ...
->If we see the problem we can debug it.
->thats how we roll."
+>##I'm hopeful.
+>##The tech industry ...  If we see the problem we can debug it.  Thats how we roll."
 
 >"The actual job of the CTO
 >is to advise the president and his team
