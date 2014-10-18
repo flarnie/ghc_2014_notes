@@ -57,18 +57,22 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
  * *(coming soon)* Security: Multiple Presentations
    - Winning the Security Awareness Game
    - When Android Apps Go Evil: An Overview of Mobile Malware Analysis
- * *(coming soon)* Security: Multiple Presentations
+ * [Security 2: Multiple Presentations]
    - Visualizing Privacy: Using (Usable) Short Form Privacy Policies
 
 [thurs-keynote-megan-smith]: thurs/keynote_megan_smith.md
 [thurs-satya-nadella-and-maria-klawe]: thurs/satya_nadella_and_maria_klawe.md
+[web-services-panel]: thurs/web_services_grow_refactor_rebuild.md
 
 ## Friday, October 10th, 2014
  * *coming soon* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**
- * *coming soon* HCI Presentations
+ * *coming soon* HCI: Multiple Presentations
+   - Digital City: Advancing the Online Presence for a Municipal Government
+   - Accessible Websites Are Always Ugly and Other Myths
+   - Everyday Extremes: Designing Mobile for Anyone, Anywhere
  * *coming soon* Gender Inclusive Game Design *with audio recording*
- * *(coming soon)* Software Engineering: Multiple Presentations
-   - A Case for Humanitarian Free and Open Source Software (with audio)
+ * *(coming soon)* Software Engineering: Multiple Presentations *with audio recording*
+   - A Case for Humanitarian Free and Open Source Software
    - Beyond the Buzzwords: Test-Driven Development
    - Semantic-Based Code and Documentation Search Engine
 
