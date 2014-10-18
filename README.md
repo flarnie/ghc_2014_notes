@@ -31,6 +31,13 @@ links to any other resources or documentation available.
 
 from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 
+## Summaries
+ * [Refactoring][refactoring-summary]
+ * [Short Form Privacy Policies][short-form-privacy-policies]
+
+[refactoring-summary]: tech_summaries/refactoring_summary.md
+[privacy-summary]: tech_summaries/privacy_summary.md
+
 ## Wednesday, October 8th, 2014
 **Events**
  * [For the Newcomers Session][weds-newcomers-session]
