@@ -542,3 +542,8 @@ All images and quotes fall under [fair use][fair-use] and are intended for purel
 This document is licensed under a [Creative Commons Attribution 3.0 United States (CC By 3.0 US) License][cc-by-3].
 [fair-use]: http://en.wikipedia.org/wiki/Fair_use
 [cc-by-3]: https://creativecommons.org/licenses/by/3.0/us/
+
+---
+[Official Notes on the Systers Wiki][opening-session-wiki]
+
+[opening-session-wiki]: http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc14:keynote_-_shafi_goldwasser

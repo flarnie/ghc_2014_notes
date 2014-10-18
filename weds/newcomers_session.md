@@ -1,5 +1,7 @@
 # Newcomer's session
-*Speaker:*
+*Speaker:* Telle Whitney
+Co-Founder, Grace Hopper Celebration
+President and CEO, Anita Borg Institute
 
 She highlighted the feeling of;
 > "Looking around the room
@@ -30,4 +32,3 @@ being brave.
  * *(new)* Student Opportunities Labs
 
 *tracks are recommendations, not binding*
-
