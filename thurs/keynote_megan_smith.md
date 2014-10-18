@@ -3,14 +3,18 @@
 ## Chief Technical Officer of the United States
 ![Megan Smith at GHC 2014](./2014-10-09Megan-Smith-USCTO2.jpg)
 
+*image from [Grace Hopper Gallery 1][ghc-gallery-1]*
+
+[ghc-gallery-1]: http://gracehopper.org/galleries/gallery-one/
+
 >"First just wanna reflect on this culture shift...
 >
 >it's been a long time coming.
 >
->I remember when the president reflecting...
+>I remember when the president was reflecting...
 >on the things Elizabeth Cady Stanton said.
 >
->We are on a path that is unstoppable.
+>We [women] are on a path that is unstoppable.
 >...
 >We the techies are part of that.
 >
@@ -22,8 +26,8 @@ sexism is "not the original heritage" of the technology
 industry. She mentions the achievements of women
 and teams of women in this field;
 
->"Often teams are the ones that do such extraordianry things
-if you look at such old histic photos,
+>"Often teams are the ones that do such extraordinary things
+if you look at such old historic photos,
 it's the women, the people of color...
 we weren't included in the history.
 >
@@ -46,13 +50,16 @@ we weren't included in the history.
 She highlighted three things that she is focused on:
  * "tech policy", including broadband, privacy, helping fix "connectivity deserts", etc.
  * "this goverment itself - how are we gonna be better" using technology
+
 >"We need all of us ...
 >not only the digital core ...
 >those of us who are putting 100% of our time
 >... but also a digital reserves
 >... many companies are already signing up for that
->... and the digital council.
+>... and the digital council."
+
  * "the american people ... innovation nation that we are"
+
 >"I reflect on two Americas ...
 >
 >The America we live in ...

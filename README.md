@@ -27,6 +27,7 @@ links to any other resources or documentation available.
 **Events**
  * [For the Newcomers Session][weds-newcomers-session]
  * [Opening Welcome and ABIE Awards][weds-opening-welcome-and-abie-awards]
+
 **Panels**
  * *(coming soon)* New Managers *"Birds of a Feather"*
  * *(coming soon)* Life of a Chromium Developer
@@ -37,8 +38,11 @@ links to any other resources or documentation available.
 [weds-opening-welcome-and-abie-awards]: weds/opening_session_and_abie_awards.md
 
 ## Thursday, October 9th, 2014
+**Events**
  * [Keynote **Megan Smith, CTO of USA**][thurs-keynote-megan-smith]
  * [Satya Nadella (CEO of Microsoft) in conversation with Maria Klawe][thurs-satya-nadella-and-maria-klawe]
+
+**Panels**
  * *(coming soon)* Deploying your Application on the Public Cloud
  * *(coming soon)* What Do You Mean It Isn't A Meritocracy? *"Birds of a Feather"*
  * *(coming soon)* Web Services: Grow, Refactor, Rebuild
