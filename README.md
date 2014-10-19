@@ -32,9 +32,11 @@ links to any other resources or documentation available.
 from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 
 ## Summaries
+ * [Accessibility][accessibility-summary]
  * [Refactoring][refactoring-summary]
- * [Short Form Privacy Policies][short-form-privacy-policies]
+ * [Short Form Privacy Policies][privacy-summary]
 
+[accessibility-summary]: tech_summaries/accessibility_summary.md
 [refactoring-summary]: tech_summaries/refactoring_summary.md
 [privacy-summary]: tech_summaries/privacy_summary.md
 

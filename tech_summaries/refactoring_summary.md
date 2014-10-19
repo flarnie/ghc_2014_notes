@@ -87,3 +87,5 @@
 > It's making changes so much easier."
 
 *- Ity Kaul (Twitter)*
+
+[Full Notes from this Presentation](https://github.com/flarnie/ghc_2014_notes/blob/master/thurs/web_services_grow_refactor_rebuild.md#web-services-grow-refactor-rebuild)

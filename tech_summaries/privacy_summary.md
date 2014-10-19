@@ -54,3 +54,5 @@ Toolkits:
 [act-privacy-dashboard]: http://actonline.org/projects/privacy-dashboard/
 [moz-priv-pol-template]: https://github.com/flamsmark/privacy-policy-template
 [moz-priv-pol-guidelines]: https://developer.mozilla.org/en-US/Marketplace/Publishing/Policies_and_Guidelines/Privacy_policies
+
+[Full Notes from this Presentation](https://github.com/flarnie/ghc_2014_notes/blob/master/thurs/security_presentations_2.md#visualizing-privacy)

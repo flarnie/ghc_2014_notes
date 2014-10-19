@@ -27,3 +27,5 @@ make it accessible, even if you don't have the resources right now.
 >   - try zooming [in] on your browser
 >   - look for bad contrast and use of color to convey meaning
 >   - pages with UX issues are probably inaccessible
+
+[Full Notes from this presentation](https://github.com/flarnie/ghc_2014_notes/blob/master/fri/HCI_presentations_friday.md#accessible-websites-are-always-ugly-and-other-myths)
