@@ -75,15 +75,24 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 [security-2-panel]: thurs/security_presentations_2.md
 
 ## Friday, October 10th, 2014
- * *coming soon* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**
+**Events**
+ * *(coming soon)* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**
+
+**Panels**
  * [HCI: Multiple Presentations][hci-presentations]
    - Digital City: Advancing the Online Presence for a Municipal Government
    - Accessible Websites Are Always Ugly and Other Myths
    - Everyday Extremes: Designing Mobile for Anyone, Anywhere
- * *coming soon* Gender Inclusive Game Design *with audio recording*
- * *(coming soon)* Software Engineering: Multiple Presentations *with audio recording*
+ * *(Work in Progress)* [Consistency in a Fragmented World: Building for Web, iOS, and Android][consist-frag] *with [audio recording][audio-consist-frag]*
+ * *(coming soon)* Gender Inclusive Game Design *with audio recording*
+ * [Software Engineering: Multiple Presentations][soft-eng-presentations] *with [audio recording][audio-soft-eng]*
    - A Case for Humanitarian Free and Open Source Software
    - Beyond the Buzzwords: Test-Driven Development
    - Semantic-Based Code and Documentation Search Engine
 
+[audio-consist-frag]: https://soundcloud.com/paradasia/14-10-10-consistency-in-a-fragmented-world
+[audio-soft-eng]: https://soundcloud.com/paradasia/14-10-10-software-engineering
+
 [hci-presentations]: fri/HCI_presentations_friday.md
+[consist-frag]: fri/consistency_in_frag_world.md
+[soft-eng-presentations]: fri/software_eng_presentations_friday.md
