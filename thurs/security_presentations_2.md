@@ -212,3 +212,15 @@
 [act-privacy-dashboard]: http://actonline.org/projects/privacy-dashboard/
 [moz-priv-pol-template]: https://github.com/flamsmark/privacy-policy-template
 [moz-priv-pol-guidelines]: https://developer.mozilla.org/en-US/Marketplace/Publishing/Policies_and_Guidelines/Privacy_policies
+---
+
+All images and quotes fall under [fair use][fair-use] and are intended for purely educational purposes.
+
+This document is licensed under a [Creative Commons Attribution 3.0 United States (CC By 3.0 US) License][cc-by-3].
+[fair-use]: http://en.wikipedia.org/wiki/Fair_use
+[cc-by-3]: https://creativecommons.org/licenses/by/3.0/us/
+
+---
+[Official Notes on the Systers Wiki][sec-mult-wiki]
+
+[sec-mult-wiki]: http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc14:presentations_-_security
