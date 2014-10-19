@@ -74,7 +74,7 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 
 ## Friday, October 10th, 2014
  * *coming soon* Awards Presentation and Keynote **Dr. Arati Prabhakar, Director of DARPA**
- * *coming soon* HCI: Multiple Presentations
+ * [HCI: Multiple Presentations][hci-presentations]
    - Digital City: Advancing the Online Presence for a Municipal Government
    - Accessible Websites Are Always Ugly and Other Myths
    - Everyday Extremes: Designing Mobile for Anyone, Anywhere
@@ -84,3 +84,4 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
    - Beyond the Buzzwords: Test-Driven Development
    - Semantic-Based Code and Documentation Search Engine
 
+[hci-presentations]: fri/HCI_presentations_friday.md
