@@ -1,9 +1,13 @@
 #Consistency in a Fragmented World
+*Developing for Web, iOS, and Android*
 
 *Friday, Oct. 10, 2014*
 
 **[Full Audio Recording of Consistency in a Fragmented World!][consist-frag-audio]**
 
+![Opening Slide for Consistency in a Fragmented World Panel][consist-frag-slide-1]
+
+[consist-frag-slide-1]: ./consistency_frag_image.jpg
 [consist-frag-audio]: https://soundcloud.com/paradasia/14-10-10-consistency-in-a-fragmented-world
 
 **WORK IN PROGRESS: I still haven't formatted and edited the notes in this file.**
