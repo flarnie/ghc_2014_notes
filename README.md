@@ -63,7 +63,7 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 
 [short-form-priv-pol-summary]: ../tech_summaries/privacy_summary.md
 
- * **3. [Accessibility][access-summ] is easy to do, and it is everyone's responsibility.**
+ * **3. [Accessibility][accessibility-summary] is easy to do, and it is everyone's responsibility.**
 
 > ###Simple easy tests for accessibility:
 >   - use a keyboard
@@ -73,8 +73,6 @@ from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
 >   - pages with UX issues are probably inaccessible
 
 *-Christine Ingalls (Intuit)*
-
-[access-sum]: ../tech_summaries/accessibility_summary.md
 
 ## Summaries
  * [Accessibility][accessibility-summary]
