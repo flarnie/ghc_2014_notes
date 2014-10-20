@@ -21,6 +21,8 @@ Each document includes primarily direct quotes, with
 links to any other resources or documentation available.
 
 ## Highlights
+
+###Quotes
 >"We're getting our history back,
 >which is awesome.
 >
@@ -30,6 +32,49 @@ links to any other resources or documentation available.
 *- Megan Smith, CTO of the USA*
 
 from the [Thursday Keynote Speech by Megan Smith][thurs-keynote-megan-smith]
+
+###Technical Ideas
+
+ * **1. Slowly test new features on live traffic.**
+
+> "I learned; measure everything.
+> When you deploy,
+> you have visible feedback that everything is working.
+> If there is anything that is scary you should be notified.
+> ...
+> Stop and think:
+> how will I test this feature?
+> You need to know before you go to production:
+>  * what are you testing
+>  * how will you test it on staging
+>  * how will you test it on production
+>  * how will you roll it back"
+
+*- Barbara Raitz (Airbnb)*
+
+ * **2. Try adding a [Short Form Privacy Policy][short-form-priv-pol-summary]**
+
+> "Show users a version of your privacy policy that is
+> * more usable
+> * more friendly
+> * more comprehensible"
+
+*-Morgan Eisler (Lookout)*
+
+[short-form-priv-pol-summary]: ../tech_summaries/privacy_summary.md
+
+ * **3. [Accessibility][access-summ] is easy to do, and it is everyone's responsibility.**
+
+> ###Simple easy tests for accessibility:
+>   - use a keyboard
+>   - check link names
+>   - try zooming [in] on your browser
+>   - look for bad contrast and use of color to convey meaning
+>   - pages with UX issues are probably inaccessible
+
+*-Christine Ingalls (Intuit)*
+
+[access-sum]: ../tech_summaries/accessibility_summary.md
 
 ## Summaries
  * [Accessibility][accessibility-summary]
